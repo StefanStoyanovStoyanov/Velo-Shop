@@ -7,7 +7,7 @@ import java.awt.*;
 
 public class LoginFrame extends JFrame {
     public LoginFrame() {
-        setTitle("VeloShop - Login");
+        setTitle("Velo-Shop - Login");
         setSize(350, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

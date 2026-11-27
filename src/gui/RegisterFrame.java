@@ -7,7 +7,7 @@ import java.awt.*;
 
 public class RegisterFrame extends JFrame {
     public RegisterFrame() {
-        setTitle("VeloShop - Register");
+        setTitle("Velo-Shop - Register");
         setSize(400, 350);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

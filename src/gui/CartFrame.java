@@ -14,7 +14,7 @@ public class CartFrame extends JFrame {
     private final JLabel totalLabel;
 
     public CartFrame() {
-        setTitle("VeloShop - My Shopping Cart");
+        setTitle("Velo-Shop - My Shopping Cart");
         setSize(700, 450);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);

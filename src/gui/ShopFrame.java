@@ -15,7 +15,7 @@ public class ShopFrame extends JFrame {
 
     public ShopFrame() {
         instance = this;
-        setTitle("VeloShop - Full Product Catalog");
+        setTitle("Velo-Shop - Full Product Catalog");
         setSize(1000, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

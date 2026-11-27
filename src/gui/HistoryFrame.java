@@ -13,7 +13,7 @@ public class HistoryFrame extends JFrame {
     private final DefaultTableModel tableModel;
 
     public HistoryFrame() {
-        setTitle("VeloShop - Purchase History");
+        setTitle("Velo-Shop - Purchase History");
         setSize(600, 400);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
